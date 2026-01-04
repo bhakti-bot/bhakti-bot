@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 
-🎓 BTech CSE student (1st Year)  
+🎓 BTech CSE student (2nd Year)  
 💻 Frontend Developer (HTML • CSS • JavaScript)  
 🎨 Creative team member & tech event enthusiast  
 🌱 Currently learning **Web Development & Open Source**  
