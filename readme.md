@@ -1,20 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=26&
-  pause=1000&
-  color=6A5ACD&
-  center=true&
-  vCenter=true&
-  width=550&
-  lines=Hi+I'm+Bhakti+Balapurkar+👋;
-  BTech+CSE+Student;
-  Frontend+Developer;
-  Creative+Tech+Enthusiast;
-  Open+Source+Learner" />
-</p>
-
----
 
 ## 🌸 About Me
 
@@ -30,18 +13,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhaktiBalapurkar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaktiBalapurkar&theme=tokyonight" />
 </p>
 
 ---
