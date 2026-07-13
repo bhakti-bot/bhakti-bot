@@ -2,10 +2,10 @@
 ## 🌸 About Me
 
 🎓 BTech CSE student (2nd Year)  
-💻 Frontend Developer (HTML • CSS • JavaScript)  
+💻 Data Scientist (Python,SQL,Matplotlib)  
 🎨 Creative team member & tech event enthusiast  
-🌱 Currently learning **Web Development & Open Source**  
-🚀 Building projects to grow as a developer  
+🌱 Currently learning **Machine Learning & Open Source**  
+🚀 Building projects to grow as a Data Scientist  
 
 ---
 
@@ -20,10 +20,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/bhakti-balapurkar-620041312/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/BhaktiBalapurkar">
+  <a href="https://github.com/bhakti-bot">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
